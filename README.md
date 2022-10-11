@@ -86,7 +86,7 @@ Alexa Service:
 ## Lessons Learned
 
 The purpose of this project was to get to grips with the basics of GoLang, while understanding and implimenting some basic microservices.
-This project has demonstrated the simplicity and power of Go. In the future I aim to specialise my skills within this language.
+This project has demonstrated the simplicity and power of Go, especially within http.
 
 
 ## License
