@@ -1,7 +1,7 @@
 
 # Alexa MVP
 
-This project contains a series of microservices, which when all are running - the main service (alexa.go) can be used. This main service takes in an audio file (.wav) of any question and return a audio file with the corrosponding answer.
+This project contains a series of microservices, which when all are running - the main service (alexa.go) can be used. This main service takes in an audio file (.wav) of any question and return an audio file with the corrosponding answer.
 
 
 ### Alpha Microservice
@@ -86,15 +86,7 @@ Alexa Service:
 ## Lessons Learned
 
 The purpose of this project was to get to grips with the basics of GoLang, while understanding and implimenting some basic microservices.
-
 This project has demonstrated the simplicity and power of Go. In the future I aim to specialise my skills within this language.
-## Acknowledgements
-This project specification and shells scripts are from a continuous assement from ECM3408 Enterprise Computing at the University of Exeter, created by Dr. David Wakeling.
-
-
-## Support
-
-For any issues feel free to email me at richardpeterwardle@icloud.com.
 
 
 ## License
